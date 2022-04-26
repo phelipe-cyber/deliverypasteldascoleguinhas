@@ -1,6 +1,6 @@
 <html lang="pt-BR">
 
-<head>
+<!-- <head>
     <title>Cardápio Digital - Pastel das Coleguinhas - Alphaville - Itens</title>
     <link rel="manifest"
         href="data:application/json;charset=utf-8,%7B%22name%22%3A%22Pastel%20das%20Coleguinhas%20-%20Alphaville%22%2C%22short_name%22%3A%22Pastel%20das%20Coleguinhas%20-%20Alphaville%22%2C%22description%22%3A%22Ola!!%20se%20vc%20est%C3%A1%20afim%20de%20comer%20um%20pastel%20%2Clanche%2Cpor%C3%A7%C3%A3o%20de%20batata%20e%20de%20sobremesa%20aquele%20a%C3%A7a%C3%AD%2Ctudo%20com%20muita%20qualidade%20e%20um%20sabor%20sem%20igual%20!%20vc%20est%C3%A1%20no%20lugar%20certo%20%3A)%20venham%20fazer%20seu%20pedido%20e%20dar%20uma%20chance%20para%20o%20novo%20tenho%20certeza%20que%20vcs%20n%C3%A3o%20v%C3%A3o%20se%20arrepender%20!%20patsel%20das%20coleguinhas%20agradece%20.%20obg%20ficam%20todos%20com%20Deus%20%3A*%20%22%2C%22scope%22%3A%22%2F4db34d3e-028c-4788-bbec-0c368d227bb0%22%2C%22start_url%22%3A%22%2F4db34d3e-028c-4788-bbec-0c368d227bb0%22%2C%22background_color%22%3A%22%23FFF%22%2C%22theme_color%22%3A%22%23FFF%22%2C%22icons%22%3A%5B%7B%22src%22%3A%22https%3A%2F%2Fstatic-images.ifood.com.br%2Fimage%2Fupload%2Ft_low%2Flogosgde%2F4db34d3e-028c-4788-bbec-0c368d227bb0%2F202203082204_eIwD_i.jpg%22%2C%22sizes%22%3A%22300x300%22%2C%22type%22%3A%22image%2Fpng%22%7D%2C%7B%22src%22%3A%22https%3A%2F%2Fstatic-images.ifood.com.br%2Fimage%2Fupload%2Ft_medium%2Flogosgde%2F4db34d3e-028c-4788-bbec-0c368d227bb0%2F202203082204_eIwD_i.jpg%22%2C%22sizes%22%3A%22600x600%22%2C%22type%22%3A%22image%2Fpng%22%7D%5D%2C%22display%22%3A%22standalone%22%2C%22orientation%22%3A%22portrait%22%7D">
@@ -1576,7 +1576,7 @@
         pointer-events: none !important;
     }
     </style>
-</head>
+</head> -->
 
 <body style="overflow: unset;">
     <div id="__next" data-reactroot="">
